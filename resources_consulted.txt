@@ -1,0 +1,5 @@
+Programming Resources consulted
+
+Playing mp4 video in Google Colab (second answer regarding compression)
+https://stackoverflow.com/questions/57377185/how-play-mp4-video-in-google-colab
+
