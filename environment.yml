@@ -1,0 +1,13 @@
+# creates mario-rl environment
+
+name: super-mario-rl
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - gymnasium
+    - gym-super-mario-bros
+    - moviepy
+    - opencv-python
+    - ffmpeg-python
+
