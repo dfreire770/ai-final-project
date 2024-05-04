@@ -3,5 +3,8 @@ Programming Resources consulted
 Playing mp4 video in Google Colab (second answer regarding compression)
 https://stackoverflow.com/questions/57377185/how-play-mp4-video-in-google-colab
 
-DQN Tutorial
+DQN Tutorial (Tensorflow)
 https://colab.research.google.com/github/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb#scrollTo=jbY4yrjTEyc9
+
+DQN Tutorial (PyTorch)
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
