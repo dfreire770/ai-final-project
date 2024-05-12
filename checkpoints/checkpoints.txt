@@ -1,2 +1,5 @@
 mario_net_22.chkpt at step 220000:
     Episode 900 - Step 199786 - Epsilon 0.9512803106904908 - Mean Reward 665.95 - Mean Length 217.2 - Mean Loss 0.876 - Mean Q Value 19.919 - Time Delta 511.608 - Time 2024-05-12T18:07:26
+
+mario_net_21.chkpt at step 210000
+    Episode 900 - Step 194730 - Epsilon 0.9015114701855778 - Mean Reward 697.36 - Mean Length 211.77 - Mean Loss 1.179 - Mean Q Value 28.441 - Time Delta 485.882 - Time 2024-05-12T19:57:31
