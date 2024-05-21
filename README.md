@@ -43,3 +43,11 @@ For more movements, check: [gym-super-mario-bros actions](https://github.com/Kau
 - Video Recording Support
 - Gets most recent Checkpoint
 - Tensorboard Logs, and Text file Logs included
+
+## References
+
+- For more information on the MadMario project, visit the [GitHub repository][madmario].
+- To learn more about the DQN algorithm, check out the [PyTorch tutorial][pytorch-dqn].
+
+[madmario]: https://github.com/yfeng997/MadMario?tab=readme-ov-file
+[pytorch-dqn]: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#dqn-algorithm
