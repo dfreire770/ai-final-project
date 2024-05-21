@@ -27,9 +27,9 @@ The first code block will download the required libraries.
   - RIGHT + A
   - RIGHT + B
   - RIGHT + A + B
+  - A
   - LEFT
 - Use the RIGHT ONLY notebooks if you plan to work only with these actions:
-  - NOOP
   - RIGHT
   - RIGHT + A
 
