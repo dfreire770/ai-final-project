@@ -46,6 +46,21 @@ For more movements, check: [gym-super-mario-bros actions](https://github.com/Kau
 
 ## References
 
+@misc{1606.01540,
+  Author = {Greg Brockman and Vicki Cheung and Ludwig Pettersson and Jonas Schneider and John Schulman and Jie Tang and Wojciech Zaremba},
+  Title = {OpenAI Gym},
+  Year = {2016},
+  Eprint = {arXiv:1606.01540},
+}
+
+@misc{gym-super-mario-bros,
+  author = {Christian Kauten},
+  howpublished = {GitHub},
+  title = {{S}uper {M}ario {B}ros for {O}pen{AI} {G}ym},
+  URL = {https://github.com/Kautenja/gym-super-mario-bros},
+  year = {2018},
+}
+
 - For more information on the MadMario project, visit the [GitHub repository][madmario].
 - To learn more about the DQN algorithm, check out the [PyTorch tutorial][pytorch-dqn].
 
