@@ -1,5 +1,8 @@
 # DQN and DDQN Applied to Super Mario Bros
 
+![image](https://github.com/dfreire770/dq-ddq-smb-agent/assets/17863274/856f94b2-a6f2-4581-982d-6047be8c1f9f)
+
+
 This project aims to evaluate and compare the performance of AI agents based on the DQN and DDQN models applied to the popular NES game Super Mario Bros. The goal of this work is to employ an RL model that learns enough information from the game environment to allow an agent (Mario) to complete a level of the game successfully.
 
 This project implements an OpenAI Gym environment running Super Mario Bros in compatibility mode. Gym is now maintained under the name Gymnasium, but try to use the version suggested in the yml file. In addition, the render mode is set to `rgb_array`, allowing the retrieval of images of each frame from the game. OpenCV is used to record a video after a determined number of episodes, which is helpful to see the progress of the agent.
